@@ -1,11 +1,5 @@
 <?php require_once "./vistas/vista_superior.php" ?>
 
-<body>
-
-    <div class="card-list"></div>
-
-
-
-</body>
+Noticias y actualizaciones del sector salud costarricense
 
 <?php require_once "./vistas/vista_inferior.php" ?>

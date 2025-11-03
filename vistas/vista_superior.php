@@ -22,6 +22,7 @@
                 <a href="./salud_publica.php">Salud Pública</a>
                 <a href="./vacunacion.php">Vacunación</a>
                 <a href="./bienestar.php">Bienestar</a>
+                <a href="./noticias.php">Noticias</a>
                 <a href="./directorio.php">Directorio</a>
 
             </div>
