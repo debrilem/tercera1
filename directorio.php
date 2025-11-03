@@ -1,5 +1,5 @@
 <?php require_once "./vistas/vista_superior.php" ?>
 
-Bienvenido al portal informativo de salud costarricense.
+Números de contacto de su interés
 
 <?php require_once "./vistas/vista_inferior.php" ?>
